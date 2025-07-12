@@ -13,7 +13,7 @@ MENTOR: Neela Santhosh Kumar# Codetech-task-2
 DESCRIPTION : HC-05 Blutooth ModuleHi-Link (5V) 5V Relay - 4 Nos ATMEGA328P IC 28 Pin IC Base 16 Mhz Crystal Oscillator BC547 Transistor - 4 Nos 22pF Capacitor - 2 NosLED 5mm - 5 Nos IN4007 Diode - 5 Nos 1K Resistor - 9 Nos 2 Pin Screw Connector 3 Pin Screw Connector - 4 Nos TOOLS NEEDED Soldering Iron Soldering Wire FluxConnect Arduino Uno on PC Open Arduino IDE (Software) Then Go To Tools>Board>Select Arduino UnoSelect Correct Port Upload
 
 CIRCUIT DIAGRAM:
-https://github.com/user-attachments/assets/52573a7f-2e0c-4250-8495-d97d1e795c30
+![image](https://github.com/user-attachments/assets/52573a7f-2e0c-4250-8495-d97d1e795c30)
 
 CODE:
 /*
